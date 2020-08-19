@@ -1,2 +1,3 @@
 # ChanceBox
-This simple box class.
+A simple box class for opening boxes.
+*That's all* :-^)
